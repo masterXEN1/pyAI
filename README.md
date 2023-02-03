@@ -15,6 +15,8 @@ This repository covers some aspects you'll need to program your own "AI"
 # Files
 1.app.py (MainAI)
 2. Calculator.py (calculator)
+3. ![image](https://user-images.githubusercontent.com/124404225/216718915-4eb2ba81-a7d9-4215-b194-507696440313.png)
+
 
 # Step 1 | app.py
 app.py is the main AI file. 
