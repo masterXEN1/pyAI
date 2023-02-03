@@ -5,6 +5,8 @@ pyAI | Simple &amp; Easy AI made in python.
 This repository covers some aspects you'll need to program your own "AI"
 
 # Requirements
+![image](https://user-images.githubusercontent.com/124404225/216718745-5b63600b-f221-41dc-90a5-f1d17d57f664.png)
+
 1. pip install tabulate
 2. time (built-in)
 3. Python3
